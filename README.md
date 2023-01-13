@@ -11,6 +11,7 @@
 |7|22.11.22|박준홍|생성자(struct)|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/11)|
 |8|22.11.23|한택환|생성자(class)|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/12)|
 |9|22.11.24|전예지|서브스크립트|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/14)|
+|| | |Heap, Stack| |
 || | |프로토콜| |
 || | |앱의 생명주기| |
 || | |Static| |
