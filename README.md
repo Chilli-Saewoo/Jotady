@@ -22,4 +22,6 @@
 || | |NSCache vs DictionaryCache| |
 || | |Singleton pattern| |
 || | | copy on write | |
+|| | | NSData | |
+|| | | RunLooop | |
 
