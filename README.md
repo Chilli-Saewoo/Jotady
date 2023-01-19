@@ -18,10 +18,8 @@
 || | |클로저| |
 || | |Property wrapper| |
 || | |mutating| |
-|| | |final 키워드| |
 || | |NSCache vs DictionaryCache| |
 || | |Singleton pattern| |
-|| | | copy on write | |
 || | | NSData | |
 || | | RunLooop | |
 || | | 접근제어자 | |
