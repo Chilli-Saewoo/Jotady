@@ -13,11 +13,11 @@
 |9|23.01.16|박준홍|Struct와 Class - 비교| |
 |10|23.01.17|박준홍|Struct와 Class - 성능| |
 |11|23.01.19||접근제어자| |
+|12|23.01.31| |클로저와 캡쳐| |
 || | |Heap, Stack| |
 || | |프로토콜| |
 || | |앱의 생명주기| |
 || | |Static| |
-|| | |클로저| |
 || | |Property wrapper| |
 || | |mutating| |
 || | |NSCache vs DictionaryCache| |
