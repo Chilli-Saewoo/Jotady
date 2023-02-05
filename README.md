@@ -14,15 +14,16 @@
 |10|23.01.17|박준홍|Struct와 Class - 성능| |
 |11|23.01.19|한택환|접근제어자| |
 |12|23.01.31|박소민|클로저와 캡쳐| |
-|13|12.02.02|김승윤|앱의 생명주기| |
-|| | |Heap, Stack| |
+|13|23.02.02|한택환|앱의 생명주기| |
+|14|23.02.05|박준홍|RunLooop| |
 || | |프로토콜| |
+|| | |Heap, Stack| |
 || | |Static| |
 || | |Property wrapper| |
 || | |mutating| |
 || | |NSCache vs DictionaryCache| |
 || | |Singleton pattern| |
 || | | NSData | |
-|| | | RunLooop | |
+
 
 
