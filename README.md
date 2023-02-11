@@ -10,8 +10,8 @@
 |6|22.11.22|박준홍|생성자(struct)|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/11)|
 |7|22.11.23|한택환|생성자(class)|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/12)|
 |8|22.11.24|전예지|서브스크립트|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/14)|
-|9|23.01.16|박준홍|Struct와 Class - 비교| |
-|10|23.01.17|박준홍|Struct와 Class - 성능| |
+|9|23.01.16|박준홍|Struct와 Class - 비교|[link](https://github.com/Chilli-Saewoo/Jotady/discussions/20) |
+|10|23.01.17|박준홍|Struct와 Class - 성능|상동|
 |11|23.01.19|한택환|접근제어자| |
 |12|23.01.31|박소민|클로저와 캡쳐| |
 |13|23.02.02|한택환|앱의 생명주기| |
